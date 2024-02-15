@@ -13,6 +13,9 @@ Ce dépôt est une collection d'outils, de scripts et de notebooks destinés à 
 3. **Simple Linear Regression** (`simple_linear_regression.py`): 
    - Un exemple de mise en œuvre de la régression linéaire sur un ensemble de données.
 
+4. **Data Explorer** (`data_explorer.py`):
+   - Un script polyvalent pour l'analyse exploratoire des données, incluant le chargement, le nettoyage, l'analyse descriptive, et la visualisation des données. Conçu pour être modulable et réutilisable dans divers projets de data science.
+
 ## Utilisation
 
 Chaque script et notebook est accompagné de commentaires détaillés et d'instructions. Pour utiliser un script, naviguez simplement vers son emplacement et exécutez-le avec Python.
